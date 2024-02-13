@@ -11,7 +11,13 @@
   const CANVASWIDTH = 600;
   const CANVASHEIGHT = 150;
   const CANVASID = "canvas";
+const audio = document.getElementById("valentineSong");
+document.addEventListener("click", handleUserInteraction);
 
+    function handleUserInteraction() {
+        // Try to play the audio when it's fully loaded
+        audio.play();
+}
   let texts = [
     "MY DEAR",
     "LOOK UP AT THE",
