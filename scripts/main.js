@@ -28,7 +28,8 @@ document.addEventListener("click", handleUserInteraction);
     "WITH ME?",
     "HAPPY",
     "VALENTINE'S DAY",
-    "I LOVE YOU RAIFA :)",
+    "RAIFA",
+    "I LOVE YOU :)",
   ];
 
   let canvas,
