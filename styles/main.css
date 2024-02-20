@@ -7,7 +7,7 @@ body {
     position: relative;
     width: 100vw;
     height: 100vh;
-    background: url('styles/back13.jpeg') center/cover; /* Replace 'path/to/your/image.jpg' with the actual path to your image */
+    background: url('back13.jpeg') center/cover; /* Replace 'path/to/your/image.jpg' with the actual path to your image */
     overflow: hidden;
 }
 
